@@ -24,7 +24,7 @@
 <h2 align="center"></h2>  
 <h2 align="center">🔍 Get in touch with me</h2>
  <p align="center">
-    <a target="_blank" href="mailto:umeshgupta78361@gmail.com"><img src="https://img.shields.io/badge/ysathe991@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a target="_blank" href="mailto:umeshgupta78361@gmail.com"><img src="https://img.shields.io/badge/umeshgupta78361@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
  
 Click here for my [Resume](https://drive.google.com/file/d/1vWkDjWeujNfgbS_j1IMw2zZQKH2rDP-a/view?usp=sharing "Title")
