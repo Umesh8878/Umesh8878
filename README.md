@@ -32,7 +32,7 @@
 Click here for my [Resume](https://drive.google.com/file/d/1vWkDjWeujNfgbS_j1IMw2zZQKH2rDP-a/view?usp=sharing "Title")
 <br/>
 <br/>
-Click here for My [portfolio] (https://Umesh8878.github.io/"Title") 
+Click here for my [Portfolio](https://umesh8878.github.io/"Title")
 <br/>
 <br/>
 Click here for my [Linkdin Account](https://www.linkedin.com/in/umesh-kumar-gupta-147b001b6/"Title")
