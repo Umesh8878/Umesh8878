@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning Java
 - 👨‍💻 My portfolio link [https://Umesh8878.github.io/](https://Umesh8878.github.io/) 
 - 📫 Email me at umeshgupta78361@gmail.com
+- 🟦 Linkdin Account  [https://www.linkedin.com/in/umesh-kumar-gupta-147b001b6/](https://www.linkedin.com/in/umesh-kumar-gupta-147b001b6/)
 
 
 <h2 a
