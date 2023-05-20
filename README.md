@@ -11,7 +11,7 @@
 ### Aboutme
 - 🔭 I’m currently Studing at Masai School
 - 🌱 I’m currently learning Java
-- 👨‍💻 My portfolio link [https://Umesh8878.github.io](https://Umesh8878.github.io/) 
+- 👨‍💻 My portfolio link [https://Umesh8878.github.io/](https://Umesh8878.github.io/) 
 - 📫 Email me at umeshgupta78361@gmail.com
 - 🟦 Linkedin Account  [https://www.linkedin.com/in/umesh-kumar-gupta-147b001b6/](https://www.linkedin.com/in/umesh-kumar-gupta-147b001b6/)
 
@@ -32,7 +32,7 @@
 Click here for my [Resume](https://drive.google.com/file/d/1vWkDjWeujNfgbS_j1IMw2zZQKH2rDP-a/view?usp=sharing "Title")
 <br/>
 <br/>
-Click here for my [Portfolio](https://umesh8878.github.io"Title")
+Click here for my [Portfolio](https://umesh8878.github.io/"Title")
 <br/>
 <br/>
 Click here for my [Linkedin Account](https://www.linkedin.com/in/umesh-kumar-gupta-147b001b6/"Title")
