@@ -8,10 +8,6 @@
 
 <p align="center">A Java backend developer with expertise in Java, JavaScript, HTML, and CSS. Demonstrates a strong ability to learn and adapt to new technologies. Possesses excellent interpersonal skills, including teamwork, collaboration, and time management. Seeking a challenging position in a technology-driven organization, where skills can be utilized to contribute to the development of innovative solutions.</p>
 
-<h2 align="center"></h2>
-<div align="center"><img src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/mern.png" width=700 />
-<h2 align="center"></h2>
-
 ### Aboutme
 - 🔭 I’m currently Studing at Masai School
 - 🌱 I’m currently learning Java
@@ -28,13 +24,13 @@
 <h2 align="center"></h2>  
 <h2 align="center">🔍 Get in touch with me</h2>
  <p align="center">
-    <a target="_blank" href="mailto:ysathe991@gmail.com"><img src="https://img.shields.io/badge/ysathe991@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a target="_blank" href="mailto:umeshgupta78361@gmail.com"><img src="https://img.shields.io/badge/ysathe991@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
  
 Click here for my [Resume](https://drive.google.com/file/d/1vWkDjWeujNfgbS_j1IMw2zZQKH2rDP-a/view?usp=sharing "Title")
 <br/>
 <br/>
-Click here for my [Portfolio](https://Umesh8878.github.io/"Title")
+Click here for my [Portfolio](https://umesh8878.github.io/"Title")
 <br/>
 <br/>
 Click here for my [Linkdin Account](https://www.linkedin.com/in/umesh-kumar-gupta-147b001b6/"Title")
