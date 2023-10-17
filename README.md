@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Umesh Kumar Gupta</h1>
 
 
-<p align="center">A Java backend developer with expertise in Java, JavaScript, HTML, and CSS. Demonstrates a strong ability to learn and adapt to new technologies. Possesses excellent interpersonal skills, including teamwork, collaboration, and time management. Seeking a challenging position in a technology-driven organization, where skills can be utilized to contribute to the development of innovative solutions.</p>
+<p align="center">A Java backend developer with expertise in Java, STS, Hibernate, Maven, MySql, JavaScript, HTML, and CSS. Demonstrates a strong ability to learn and adapt to new technologies. Possesses excellent interpersonal skills, including teamwork, collaboration, and time management. Seeking a challenging position in a technology-driven organization, where skills can be utilized to contribute to the development of innovative solutions.</p>
 
 ### About me
 - 🔭 I’m currently Studing at Masai School
